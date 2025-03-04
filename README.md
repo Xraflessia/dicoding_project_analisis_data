@@ -22,7 +22,7 @@ Buat Folder Proyek
 mkdir submission
 cd submission
 ```
-2️Install Dependencies dengan pipenv
+2Install Dependencies dengan pipenv
 ```
 pipenv install
 pipenv shell
